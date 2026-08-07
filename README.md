@@ -188,14 +188,3 @@ The program generates:
 ## 🚀 Project Outcome
 
 This project demonstrates the practical application of **Exploratory Data Analysis (EDA)** using Python. By analyzing an e-commerce dataset, it provides meaningful insights through descriptive statistics, trend analysis, outlier detection, correlation analysis, and data visualization, helping transform raw data into actionable information. :contentReference[oaicite:1]{index=1}
-
----
-
-## 👨‍💻 Author
-
-**Wasif Masood**
-
-Data Analytics Enthusiast | Python Learner | BCA Student
-
----
-⭐ If you found this project useful, consider giving it a **Star** on GitHub!
